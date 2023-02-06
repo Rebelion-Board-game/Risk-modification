@@ -6,6 +6,7 @@ jobs:
  convert_test:
    name: Convert file
    runs-on: ubuntu-18.04
+   steps:
      - uses: actions/checkout@v1
      - uses: maxheld83/pandoc@v2
        with:
