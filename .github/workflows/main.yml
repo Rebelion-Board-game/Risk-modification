@@ -24,5 +24,5 @@ jobs:
        with:
           file-path: instructions/PL/Zasady.md
           commit-msg: Update resources
-          github-token: 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
+          github-token: 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
           
