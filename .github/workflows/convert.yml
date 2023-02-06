@@ -1,0 +1,28 @@
+name: Document Conversion
+
+on: push
+
+jobs:
+ convert_test:
+   name: Convert file
+   runs-on: ubuntu-18.04
+   steps:
+     - uses: actions/checkout@v1
+     - uses: maxheld83/pandoc@v2
+       with:
+         args: "instructions/PL/Zasady.docx -o instructions/PL/Zasady.md"
+    #  - uses: maxheld83/pandoc@v2
+    #    with:
+    #      args: "instructions/PL/Zasady.docx -o instructions/PL/Zasady.pdf"
+    #  - uses: maxheld83/pandoc@v2
+    #    with:
+    #      args: "instructions/EN/rules.docx -o instructions/EN/rules.md"
+    #  - uses: maxheld83/pandoc@v2
+    #    with:
+    #      args: "instructions/EN/rules.docx -o instructions/EN/rules.pdf"
+     - uses: test-room-7/action-update-file@v1.6.0
+       with:
+          file-path: instructions/PL/Zasady.md
+          commit-msg: Update resources
+          github-token: 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
+          
