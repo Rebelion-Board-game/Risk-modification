@@ -22,6 +22,10 @@ jobs:
          args: "instructions/EN/rules.docx -o instructions/EN/rules.pdf"
      - uses: test-room-7/action-update-file@v1.6.0
        with:
-          file-path: input.md
+          file-path: |
+           instructions/PL/Zasady.md
+           instructions/PL/Zasady.pdf
+           instructions/EN/rules.md
+           instructions/EN/rules.pdf
           commit-msg: Update resources
           github-token: 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
