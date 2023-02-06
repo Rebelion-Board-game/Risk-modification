@@ -28,4 +28,5 @@ jobs:
            instructions/EN/rules.md
            instructions/EN/rules.pdf
           commit-msg: Update resources
-          github-token: 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
+          github-token: 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
+          
