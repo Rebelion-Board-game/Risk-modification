@@ -6,7 +6,6 @@ jobs:
  convert_test:
    name: Convert file
    runs-on: ubuntu-18.04
-   steps:
      - uses: actions/checkout@v1
      - uses: maxheld83/pandoc@v2
        with:
@@ -22,11 +21,10 @@ jobs:
          args: "instructions/EN/rules.docx -o instructions/EN/rules.pdf"
      - uses: test-room-7/action-update-file@v1.6.0
        with:
-          file-path: |
-           instructions/PL/Zasady.md
-           instructions/PL/Zasady.pdf
-           instructions/EN/rules.md
-           instructions/EN/rules.pdf
+          file-path: instructions/PL/Zasady.md
+          #  instructions/PL/Zasady.pdf
+          #  instructions/EN/rules.md
+          #  instructions/EN/rules.pdf
           commit-msg: Update resources
           github-token: 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
           
