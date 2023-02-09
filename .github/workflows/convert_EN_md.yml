@@ -9,7 +9,7 @@ on:
 
 jobs:
  convert_test:
-   name: Convert file
+   name: Convert EN_md
    runs-on: ubuntu-18.04
    steps:
      - uses: actions/checkout@v1

@@ -9,7 +9,7 @@ on:
 
 jobs:
  convert_test:
-   name: Convert file
+   name: Convert PL_docx
    runs-on: ubuntu-18.04
    steps:
      - uses: actions/checkout@v1
