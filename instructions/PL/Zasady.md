@@ -147,18 +147,17 @@ budowaniem musi być wykonywana w swojej turze.
     portem prowadzony jest desant, atakujący otrzymuje dodatkowe -8 do
     rzutów kości.
 
--   Farma, daje przychód {1} waluty oraz 1 jedzenia. Koszt budowy (14).
+-   Farma, daje przychód {1} waluty oraz 1 jedzenia.
 
 -   Bunkry, mają 2 poziomy dające obrońcy modyfikatory do walki (1
-    poziom +10; 2 poziom +20). Po zdobyciu burzą się o 1 poziom.
+    poziom +10; 2 poziom +20). Po zdobyciu, poziom bunkrów zmienjsza się o 1.
 
--   Manufaktura, daje przychód {2}. Koszt budowy (16).
+-   Manufaktura, daje przychód {2}.
 
 -   Spichlerz zapewnia 2 jedzenia niezależnie od pogody.
 
 -   Droga, umożliwia przesyłanie żołnierzy między prowincjami bez
-    ponoszenia kosztów przemarszu. Koszt budowy wynosi (5), można ją
-    budować na prowincjach, na których prowadzona jest akcja
+    ponoszenia kosztów przemarszu. Drogę można budować na prowincjach, na których prowadzona jest akcja
     plądrowania. Droga jest traktowany jako budynek dodatkowy więc można
     na prowincji z nim zbudować inny budynek.
 
