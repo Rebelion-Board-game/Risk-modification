@@ -23,7 +23,7 @@ Spis treści {#spis-treści .TOCHeading}
 
 [Modyfikatory: 7](#modyfikatory)
 
-[**Ekonomia ** 8](#ekonomia)
+[**Ekonomia 2.0** 8](#ekonomia)
 
 [EKSPEDYCJE: 8](#ekspedycje)
 
