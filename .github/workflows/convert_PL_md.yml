@@ -22,8 +22,8 @@ jobs:
      - uses: test-room-7/action-update-file@v1.6.0
        with:
           file-path: |
-           instructions/EN/rules.md
-           instructions/EN/rules.pdf
+           instructions/PL/Zasady.docx
+           instructions/PL/Zasady.pdf
           commit-msg: Update resources
           github-token: ${{ secrets.GITHUB_TOKEN }}
           

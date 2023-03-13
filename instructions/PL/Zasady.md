@@ -530,7 +530,6 @@ W czasie zarazy dodatkowo:
 
 Zaraz trwa 3 tury. Gracz od którego się zaczęła na początku kazadej swojej kolejki
 przesuwa zeton na karcie zarazy o jeden w prawo.
-
 +------------+
 | **Wojsko** |
 | ========== |
