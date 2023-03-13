@@ -355,7 +355,7 @@ Modifiers:
 > coastal batteries, the player gets a +6 bonus;
 
 +-----------------+
-| **Economy 2.0** |
+| **Economy** |
 | =============== |
 +-----------------+
 

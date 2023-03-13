@@ -452,7 +452,7 @@ EKSPEDYCJE:
 KUTRY RYBACKIE
 --------------
 
-Gracz posiadający port może zbudować kuter rybacki (7). Kuter rybacki
+Gracz posiadający port może zbudować kuter rybacki. Kuter rybacki
 posiada 2 punkty ruchu i umieszczony na prowincji morskiej zapewnia 1
 jedzenia i 1 waluty. Na jednej morskiej prowincji, może się znajdować
 maksymalnie 1 kuter rybacki. W przypadku blokady wszystkich portów
@@ -530,6 +530,7 @@ W czasie zarazy dodatkowo:
 
 Zaraz trwa 3 tury. Gracz od którego się zaczęła na początku kazadej swojej kolejki
 przesuwa zeton na karcie zarazy o jeden w prawo.
+
 +------------+
 | **Wojsko** |
 | ========== |
