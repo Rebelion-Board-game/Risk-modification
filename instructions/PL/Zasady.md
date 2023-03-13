@@ -514,10 +514,10 @@ Waluta:
 
 3.  Walutę można zdobywać z budynków takich jak: farmy, manufaktury itd.
 
-+---------------------+
-|  **Światowa Zaraz** |
-| =================== |
-+---------------------+
++--------------------+
+| **Światowa Zaraz** |
+| ================== |
++--------------------+
 
 W czasie trwania zarazy kazdy gracz na początku swojej tury rzucza kością k10, aby określić ilość
 ludzi jaka zmarła. Gracz musi usunąć z planszy tylu zołnierzy ile wynosi liczba 
