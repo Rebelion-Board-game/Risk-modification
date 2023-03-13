@@ -529,7 +529,8 @@ W czasie zarazy dodatkowo:
 - maksymalna ilość zołnierzy na jednej prownicji zostaje zmnijeszona do 7
 
 Zaraz trwa 3 tury. Gracz od którego się zaczęła na początku kazadej swojej kolejki
-przesuwa zeton na karcie zarazy o jeden w prawo. 
+przesuwa zeton na karcie zarazy o jeden w prawo.
+
 +------------+
 | **Wojsko** |
 | ========== |
