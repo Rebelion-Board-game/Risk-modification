@@ -168,20 +168,14 @@ budowaniem musi być wykonywana w swojej turze.
 
 Aby móc podróżować przez morze należy posiadać port.
 
-Posiadając port można zbudować statek, który umożliwi desant na inną
-dowolną morską prowincję. Koszt budowy jednego okrętu wynosi (9), jeden
-okręt może zabrać maksymalnie 10 żołnierzy, koszty przemarszu są
-standardowe (można plądrować) i ponosi się go nawet w wypadku porażki.
+Posiadając port można zbudować okręty, np. transporter, który umożliwi desant na inną
+dowolną morską prowincję. Koszty przemarszu są
+standardowe, czyli płaci się podczas zejścia zołnierzy z statku,
+(można plądrować). Koszty ponosi się nawet w wypadku porażki.
 Desantujący się żołnierze mają modyfikator -12.
 
-Okręt podróżuje 2 tury, gracz ustala miejsce lądowania w momencie
-wyruszenia statku i zapisuje je na kartce. Celu podróży nie można
-zmieniać, po dopłynięciu statku do celu gracz pokazuje innym graczom
-kartkę z napisanym celem. Ostateczny cel musi się zgadzać z celem na
-kartce!
-
 Można kupić statek budowlany, który może zbudować na innej prowincji
-morskiej port. Koszt takiego statku wynosi (13). Posiadanie takiego
+morskiej port. Posiadanie takiego
 statku należy zapisać na kartce, można go wysłać w dowolnym momencie
 gry.
 
@@ -234,15 +228,15 @@ i co rundę jest cofa się go o 1 pole.
 
 8.  Manufaktura (20)
 
-9.  Statek (9)
+9.  Kuter rybacki (7)
 
-10. Kuter rybacki (7)
+19. Ulepszenie stolicy (10, 19)
 
-11. Ulepszenie stolicy (10, 19)
+11. Spichlerz (12)
 
-12. Spichlerz (12)
+12. Obóz niewolników (7) \[koszt utrzymania: 1\]
 
-13. Obóz niewolników (7) \[koszt utrzymania: 1\]
+13. Statek budowlany (7)
 
 +------------+
 | **Koszty** |
