@@ -228,7 +228,7 @@ i co rundę jest cofa się go o 1 pole.
 
 5.  Wysłanie ekspedycji wewnętrznej (10)
 
-6.  Wyprawa zza morska (15)
+6.  Wyprawa zza morska (13)
 
 7.  Port (12)
 
@@ -514,6 +514,22 @@ Waluta:
 
 3.  Walutę można zdobywać z budynków takich jak: farmy, manufaktury itd.
 
++---------------------+
+|  **Światowa Zaraz** |
+| =================== |
++---------------------+
+
+W czasie trwania zarazy kazdy gracz na początku swojej tury rzucza kością k10, aby określić ilość
+ludzi jaka zmarła. Gracz musi usunąć z planszy tylu zołnierzy ile wynosi liczba 
+oczek wyrzuconych na kości. Pierwszy rzut wykonuje gracz,który przywiózł zaraze, 
+następuje on zaraz po rozpatrzeniu wyniku ekspedycji.
+
+W czasie zarazy dodatkowo:
+- kazda ekspedycja jest wykonywana z modyfiaktorem +30 do wyniku
+- maksymalna ilość zołnierzy na jednej prownicji zostaje zmnijeszona do 7
+
+Zaraz trwa 3 tury. Gracz od którego się zaczęła na początku kazadej swojej kolejki
+przesuwa zeton na karcie zarazy o jeden w prawo. 
 +------------+
 | **Wojsko** |
 | ========== |
