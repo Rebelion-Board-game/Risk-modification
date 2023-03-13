@@ -15,7 +15,7 @@ jobs:
      - uses: actions/checkout@v1
      - uses: maxheld83/pandoc@v2
        with:
-         args: "instructions/PL/Zasady.docx -o instructions/PL/Zasady.md"
+         args: "instructions/PL/Zasady.md -o instructions/PL/Zasady.docx"
      - uses: maxheld83/pandoc@v2
        with:
          args: "instructions/PL/Zasady.docx -o instructions/PL/Zasady.pdf"
