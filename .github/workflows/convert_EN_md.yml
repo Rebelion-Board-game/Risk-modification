@@ -11,7 +11,7 @@ on:
 jobs:
  convert_test:
    name: Convert EN_md
-   runs-on: ubuntu-18.04
+   runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v1
      - uses: maxheld83/pandoc@v2
