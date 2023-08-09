@@ -3,7 +3,6 @@ name: Document Conversion md
 on:
   push:
     branches:
-    - main
     - dev
     paths:
     - instructions/PL/Zasady.md
@@ -25,6 +24,6 @@ jobs:
           file-path: |
            instructions/PL/Zasady.docx
            instructions/PL/Zasady.pdf
-          commit-msg: Update resources
+          commit-msg: Update resources by Actions
           github-token: ${{ secrets.GITHUB_TOKEN }}
           
