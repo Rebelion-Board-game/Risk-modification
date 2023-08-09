@@ -21,6 +21,7 @@ jobs:
          args: "instructions/PL/Zasady.docx -o instructions/PL/Zasady.pdf"
      - uses: test-room-7/action-update-file@v1.6.0
        with:
+          branch: dev
           file-path: |
            instructions/PL/Zasady.md
            instructions/PL/Zasady.pdf
