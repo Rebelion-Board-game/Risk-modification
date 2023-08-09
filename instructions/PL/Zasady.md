@@ -1,4 +1,4 @@
-Spis treści {#spis-treści .TOCHeading}
+Spis treści
 ===========
 
 [**Ogólne zasady** 2](#ogólne-zasady)
@@ -17,7 +17,7 @@ Spis treści {#spis-treści .TOCHeading}
 
 [**Bitwy** 6](#bitwy)
 
-[Bitwy lądowe: 6](#_Toc125899257)
+[Bitwy lądowe: 6](#X5eb23217f9f59fd8ad71af51753dcb7d21e4b63)
 
 [Bitwy morskie: 6](#bitwy-morskie)
 
@@ -41,7 +41,7 @@ Spis treści {#spis-treści .TOCHeading}
 
 [Rodzaje akcji: 13](#rodzaje-akcji)
 
-[**Waluta** 14](#_Toc125899269)
+[**Waluta** 14](#X69400368487deb832e63de765c676376dc78fb3)
 
 [**Bunty** 14](#bunty)
 
@@ -51,10 +51,10 @@ Spis treści {#spis-treści .TOCHeading}
 
 [**Zasady dla 3 graczy** 16](#zasady-dla-3-graczy)
 
-+--------------------+
-|  **Ogólne zasady** |
-| =================  |
-+--------------------+
++---------------+
+| Ogólne zasady |
+| ============= |
++---------------+
 
 1.  Gra odbywa się na mapie podzielonej na 6 kontynentów. Każdy z nich
     jest podzielony na terytoria.
@@ -106,10 +106,10 @@ która posiada liczby 10,20, \...,00. Wynik odczytuje się poprzez
 zsumowanie dwóch kości np. mamy 6 i 40 więc nasz wynik to 46. sto
 uzyskuje się przez wyrzucenie 0 i 00.
 
-+---------------------+
-| **Rozpoczęcie Gry** |
-| =================== |
-+---------------------+
++-----------------+
+| Rozpoczęcie Gry |
+| =============== |
++-----------------+
 
 1.  Każdy gracz wybiera kolor swojej armii.
 
@@ -117,23 +117,63 @@ uzyskuje się przez wyrzucenie 0 i 00.
     znacznika na wybranej prowincji, ponadto każdy gracz bierze 40
     waluty. Stolice muszą się znajdować co najmniej 2 pola od siebie.
 
-3.  Zaczyna gracz, który wyrzuci największą liczbę na kostce k100.
+3.  Każdy gracz pobiera jedną kartę ze stosu kart zasobów
+
+4.  Zaczyna gracz, który wyrzuci największą liczbę na kostce k100.
 
 Na początku gry gracze posiadają tylko jedną prowincję z stolicą, aby
 zwiększyć swoje terytorium, należy kupić żołnierzy i przemieścić ich na
 interesującą gracza pustą prowincję (lub zajętą przez innego, jeśli chce
 rozpocząć walkę).
 
-+-------------+
-| **Budynki** |
-| =========== |
-+-------------+
+Kart zasobów:
+
+-   **Działki Rolne:** Twoja stolica produkuje 1 więcej jedzenia
+
+-   **Eksploracja Ruin:** Raz podczas gry możesz odkryć i zbudować
+    starożytne ruiny (5) na jednym z twoich terenów. Ruiny przynoszą
+    dodatkowe 3 waluty i 1 jedzenia na turę. Na teranie, na którym
+    chcesz zbudować ruiny musi zostać najpierw przeprowadzona ekspedycja
+    wewnętrzna
+
+-   **Przywódca Wojenny:** Jeśli prowadzisz atak na terytorium wroga,
+    otrzymujesz +5 do wyniku rzutu kością podczas bitwy.
+
+-   **Handel Zagraniczny:** Raz na turę możesz wymienić 2 walutę na 1
+    waluty, jeśli posiadasz port.
+
+-   **Przemysłowcy:** Manufaktury przynoszą 1 waluty więcej zysku
+
+-   **Innowacje Naukowe:** Otrzymujesz 1 walutę na turę za każdą
+    prowincję z aktywną ekspedycją.
+
+-   **Przepastne Spichlerze:** Spichlerze generują 1 jedzenia więcej
+
+-   **Obrona uporczywa:** Bunkry mają +5 do obrony
+
+-   **Łowca niewolników:** Prawdopodobieństwo złapania niewolników
+    zostaje zwiększone do 50%, a maksymalne prawdopodobieństwo na bunt
+    wynosi 20%
+
+-   **Mistrz szpiegów:** Możesz kupić szpiega od 1 poziomu stolicy i
+    koszt szpiega zostaje zmniejszony do 5 jednostek waluty. Wymagany
+    poziom sukcesu dla każdej akcji zmniejsza się o 15.
+
+-   **Odkrywca:** koszt każdej ekspedycji zostaje zmniejszony o 4
+
++---------+
+| Budynki |
+| ======= |
++---------+
 
 Budynki muszą być budowane na prowincjach posiadanych, a nie
 okupowanych, przez gracza. Na prowincjach nie może się znajdować żaden
 inny budynek oraz posiadać połączenie ze stolicą. Budynki można burzyć
 co powoduje zwrot połowy kosztów nominalnej ceny. Każda akcja związana z
 budowaniem musi być wykonywana w swojej turze.
+
+[Niektóre budynki mogą zostać zbudowane na konkretnym poziomie
+stolicy!]{.underline}
 
 **BUDYNKI:**
 
@@ -150,39 +190,45 @@ budowaniem musi być wykonywana w swojej turze.
 -   Farma, daje przychód {1} waluty oraz 1 jedzenia.
 
 -   Bunkry, mają 2 poziomy dające obrońcy modyfikatory do walki (1
-    poziom +10; 2 poziom +20). Po zdobyciu, poziom bunkrów zmienjsza się o 1.
+    poziom +10; 2 poziom +20). Po zdobyciu, poziom bunkrów zmienjsza się
+    o 1.
 
 -   Manufaktura, daje przychód {2}.
 
 -   Spichlerz zapewnia 2 jedzenia niezależnie od pogody.
 
 -   Droga, umożliwia przesyłanie żołnierzy między prowincjami bez
-    ponoszenia kosztów przemarszu. Drogę można budować na prowincjach, na których prowadzona jest akcja
-    plądrowania. Droga jest traktowany jako budynek dodatkowy więc można
-    na prowincji z nim zbudować inny budynek.
+    ponoszenia kosztów przemarszu. Drogę można budować na prowincjach,
+    na których prowadzona jest akcja plądrowania. Droga jest traktowany
+    jako budynek dodatkowy więc można na prowincji z nim zbudować inny
+    budynek.
 
-+----------------------+
-|  **Podróże morskie** |
-| ===================  |
-+----------------------+
+-   Akademia Taktyczna: Akademia pozwala na szkolenie dowódców
+    wojskowych, co zwiększa skuteczność ich armii. Po zbudowaniu
+    Akademii, gracz może wydać {5} by zyskać +5 do dowolnego rzutu kości
+    podczas bitwy. Zakupu można dokonać tylko przed rzutem.
+
++-----------------+
+| Podróże morskie |
+| =============== |
++-----------------+
 
 Aby móc podróżować przez morze należy posiadać port.
 
-Posiadając port można zbudować okręty, np. transporter, który umożliwi desant na inną
-dowolną morską prowincję. Koszty przemarszu są
-standardowe, czyli płaci się podczas zejścia zołnierzy z statku,
-(można plądrować). Koszty ponosi się nawet w wypadku porażki.
-Desantujący się żołnierze mają modyfikator -12.
+Posiadając port można zbudować okręty, np. transporter, który umożliwi
+desant na inną dowolną morską prowincję. Koszty przemarszu są
+standardowe, czyli płaci się podczas zejścia żołnierzy z statku (można
+plądrować). Koszty ponosi się nawet w wypadku porażki. Desantujący się
+żołnierze mają modyfikator -12.
 
 Można kupić statek budowlany, który może zbudować na innej prowincji
-morskiej port. Posiadanie takiego
-statku należy zapisać na kartce, można go wysłać w dowolnym momencie
-gry.
+morskiej port. Posiadanie takiego statku należy zapisać na kartce, można
+go wysłać w dowolnym momencie gry.
 
-+-----------------------+
-|  **Warunki pogodowe** |
-| ====================  |
-+-----------------------+
++------------------+
+| Warunki pogodowe |
+| ================ |
++------------------+
 
 Warunki pogodowe wpływają na zbiory jedzenia oraz trudność w prowadzeniu
 bitew.
@@ -197,20 +243,57 @@ sprawdzeniu wyniku rzutu gracz wykonuje rzut k6 by sprawdzić jak długo
 pogoda się utrzyma następnie ustawia znacznik pogody na odpowiednim polu
 i co rundę jest cofa się go o 1 pole.
 
-  ----------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Wynik**   **Efekt**
-  1-40        Zwykły słoneczny okres, nic się nie dzieje.
-  41-55       Nadeszła niespodziewana zima. Wszystkie operacje militarne wykonywane są z modyfikatorem -4 (obrona nie podlega temu modyfikatorowi)
-  55-65       Niezwykle słoneczny okres. Wszystkie operacje militarne wykonywane są z modyfikatorem +4 (obrona nie podlega temu modyfikatorowi). A dochód z każdej farmy zwiększa się o 1. Koszt przemarszu wynosi 0.
-  65-75       Przymrozek utwardził ziemię i zamroził rzeki ułatwiając przeprawy. Każda jednostka zyskuje dodatkowy punkt ruchu oraz koszt zostaje zmniejszony o 1, czyli wynosi {0}.
-  75-85       Okropna wichura uniemożliwia wysłanie jakichkolwiek ekspedycji zza morskich, a koszt budowy każdej konstrukcji zwiększa się o 3. Koszt przemarszu zwiększa się do {2}.
-  85-00       Sroga zima. Dochód z każdej farmy i manufaktury jest zmniejszony o 1 oraz produkuje ona 0 jedzenia zamiast 1. Wszystkie operacje militarne wykonywane są z modyfikatorem -8 (obrona nie podlega temu modyfikatorowi). Koszt przemarszu wojska wynosi 0.
-  ----------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-+-------------+
-|  **Cennik** |
-| ==========  |
-+-------------+
++-----------------------------------+-----------------------------------+
+| Wynik                             | Efekt                             |
++-----------------------------------+-----------------------------------+
+| 1-30                              | Zwykły słoneczny okres, nic się   |
+|                                   | nie dzieje.                       |
++-----------------------------------+-----------------------------------+
+| 31-40                             | Upał: Dochód z farm zmniejsza się |
+|                                   | o 1 jedzenia, ale koszt budowy    |
+|                                   | konstrukcji zmniejsza się o 2.    |
++-----------------------------------+-----------------------------------+
+| 41-55                             | Nadeszła niespodziewana zima.     |
+|                                   | Wszystkie operacje militarne      |
+|                                   | wykonywane są z modyfikatorem -4  |
+|                                   | (obrona nie podlega temu          |
+|                                   | modyfikatorowi)                   |
++-----------------------------------+-----------------------------------+
+| 55-65                             | Niezwykle słoneczny okres.        |
+|                                   | Wszystkie operacje militarne      |
+|                                   | wykonywane są z modyfikatorem +4  |
+|                                   | (obrona nie podlega temu          |
+|                                   | modyfikatorowi). A dochód z       |
+|                                   | każdej farmy zwiększa się o 1.    |
+|                                   | Koszt przemarszu wynosi 0.        |
++-----------------------------------+-----------------------------------+
+| 65-75                             | Przymrozek utwardził ziemię i     |
+|                                   | zamroził rzeki ułatwiając         |
+|                                   | przeprawy. Każda jednostka        |
+|                                   | zyskuje dodatkowy punkt ruchu     |
+|                                   | oraz koszt ruchu zostaje          |
+|                                   | zmniejszony o 1, czyli wynosi     |
+|                                   | {0}.                              |
++-----------------------------------+-----------------------------------+
+| 75-85                             | Okropna wichura uniemożliwia      |
+|                                   | wysłanie jakichkolwiek ekspedycji |
+|                                   | zza morskich, a koszt budowy      |
+|                                   | każdej konstrukcji zwiększa się o |
+|                                   | 3. Koszt przemarszu zwiększa się  |
+|                                   | do {2}.                           |
++-----------------------------------+-----------------------------------+
+| 85-00                             | Sroga zima. Dochód z każdej farmy |
+|                                   | i manufaktury jest zmniejszony o  |
+|                                   | 1 oraz produkuje ona 0 jedzenia   |
+|                                   | zamiast 1. Wszystkie operacje     |
+|                                   | militarne wykonywane są z         |
+|                                   | modyfikatorem -8 (obrona nie      |
+|                                   | podlega temu modyfikatorowi).     |
+|                                   | Koszt przemarszu wojska wynosi 0. |
++-----------------------------------+-----------------------------------+
+| **Cennik** {#cennik}              |                                   |
+| ==========                        |                                   |
++-----------------------------------+-----------------------------------+
 
 1.  Bunkry (1 poziom 11; 2 poziom 30)
 
@@ -230,7 +313,7 @@ i co rundę jest cofa się go o 1 pole.
 
 9.  Kuter rybacki (7)
 
-19. Ulepszenie stolicy (10, 19)
+10. Ulepszenie stolicy (10, 19)
 
 11. Spichlerz (12)
 
@@ -238,10 +321,12 @@ i co rundę jest cofa się go o 1 pole.
 
 13. Statek budowlany (7)
 
-+------------+
-| **Koszty** |
-| ========== |
-+------------+
+14. Akademia Taktyczna (12)
+
++--------+
+| Koszty |
+| ====== |
++--------+
 
 1.  Na każdej prowincji, oprócz stolicy, może być maksymalnie 10
     jednostek odjąć ilość czerwonych żetonów znajdujących się na
@@ -252,10 +337,10 @@ i co rundę jest cofa się go o 1 pole.
 3.  Koszt przemarszu jednego żołnierza o jedną prowincję wynosi 1. Czyli
     koszt przemarszu konia to 3 itd.
 
-+------------+
-| **Bitwy ** |
-| ========== |
-+------------+
++--------+
+| Bitwy  |
+| ====== |
++--------+
 
 Bitwy lądowe:
 -------------
@@ -347,10 +432,10 @@ Modyfikatory:
 > 2\. Za bitwę morską, która graniczy z prowincją, gdzie znajduję się
 > przyjacielskie baterie nadmorskie gracz uzyskuje bonus +6;
 
-+--------------+
-| **Ekonomia** |
-| ============ |
-+--------------+
++----------+
+| Ekonomia |
+| ======== |
++----------+
 
 EKSPEDYCJE:
 -----------
@@ -457,15 +542,16 @@ NIEWOLNICTWO
 
 Po wygranej bitwie lądowej Gracz posiadający budynek [Obóz
 Niewolników]{.underline} może spróbować złapać wrogich żołnierzy jako
-niewolników. Jeden niewolnik zmniejsza koszty utrzymania jakie musi
-płacić gracz o 1. Jeśli prowincję, na której znajduję się obóz
+niewolników. Jeden niewolnik zmniejsza globalne koszty utrzymania jakie
+musi płacić gracz o 1. Jeśli prowincję, na której znajduję się obóz
 niewolników zdobędzie inny gracz, to może on niewolników nie należących
 do jego narodowości zabić lub wysłać do pracy na swoich prowincjach (2
 punkty ruchu, nie ponosi się kosztów przemieszczenia). Niewolnicy
 należący do nacji gracza na powrót stają się jego żołnierzami.
 
 Po każdej przegranej bitwie z graczem, którego żołnierze są niewolnikami
-ich właściciel rzuca k100 by sprawdzić, czy wybuchł bunt.
+ich właściciel rzuca k100 by sprawdzić, czy wybuchł bunt. Buntowi
+ulegają wszyscy niewolnicy i są traktowani jak zwykły bunt.
 
 +--------------------+----------------+
 | Liczba niewolników | Szansa na bunt |
@@ -482,9 +568,9 @@ ich właściciel rzuca k100 by sprawdzić, czy wybuchł bunt.
 Po bitwie Gracz chcący złapać niewolnika rzuca K100 i sprawdza, czy
 kogoś złapał.
 
-Podstawowa szansa wynosi 20%. Za każdą jednostkę piechoty lub artylerii,
-która pozostała na po bitwie gracz dostaje +5 %. Za każdego pozostałego
-kawalerzystę gracz dostaje modyfikator +15%.
+Podstawowa szansa wynosi 20%. Za każdą jednostkę gracza piechoty lub
+artylerii, która pozostała po bitwie gracz dostaje +5 %. Za każdego
+pozostałego kawalerzystę gracz dostaje modyfikator +15%.
 
 Gracz może złapać maksymalnie taką liczbę niewolników jaka była liczba
 wrogich żołnierzy biorących żołnierzy w bitwie. Gracz może zabić dowolną
@@ -504,31 +590,39 @@ Waluta:
     stolicy (zależy od jej poziomu);
 
 2.  Dostaje się tyle waluty na turę, ile wynosi liczba posiadanych
-    prowincji podzielona przez 3, zaokrąglone w dół;
+    prowincji podzielona przez 3, zaokrąglone w dół; (tymczasowo
+    zawieszone)
 
 3.  Walutę można zdobywać z budynków takich jak: farmy, manufaktury itd.
 
-+--------------------+
-| **Światowa Zaraz** |
-| ================== |
-+--------------------+
++----------------+
+| Światowa Zaraz |
+| ============== |
++----------------+
 
-W czasie trwania zarazy kazdy gracz na początku swojej tury rzucza kością k10, aby określić ilość
-ludzi jaka zmarła. Gracz musi usunąć z planszy tylu zołnierzy ile wynosi liczba 
-oczek wyrzuconych na kości. Pierwszy rzut wykonuje gracz,który przywiózł zaraze, 
-następuje on zaraz po rozpatrzeniu wyniku ekspedycji.
+W czasie trwania zarazy każdy gracz na początku swojej tury rzuca kością
+k10, aby określić ilość ludzi jaka zmarła. Gracz musi usunąć z planszy
+tylu żołnierzy, ile wynosi liczba oczek wyrzuconych na kości. Pierwszy
+rzut wykonuje gracz, który przywiózł zaraze, następuje on zaraz po
+rozpatrzeniu wyniku ekspedycji.
 
-W czasie zarazy dodatkowo:
-- kazda ekspedycja jest wykonywana z modyfiaktorem +30 do wyniku
-- maksymalna ilość zołnierzy na jednej prownicji zostaje zmnijeszona do 7
+W czasie zarazy dodatkowo: - każda ekspedycja jest wykonywana z
+modyfikatorem +30 do wyniku - maksymalna ilość żołnierzy na jednej
+prowincji zostaje zmniejszona do 7
 
-Zaraz trwa 3 tury. Gracz od którego się zaczęła na początku kazadej swojej kolejki
-przesuwa zeton na karcie zarazy o jeden w prawo.
+Zaraz trwa 3 tury. Gracz, od którego się zaczęła na początku każdej
+swojej kolejki przesuwa żeton na karcie zarazy o jeden w prawo.
 
-+------------+
-| **Wojsko** |
-| ========== |
-+------------+
+Każdy gracz ma możliwość wprowadzenia kwarantanny (umieszczenie
+odpowiedniej karty przy swojej karcie gracza). Kwarantanna powoduje, że
+od wyniku na kości odejmuje się 1 (minimalny wynik to 1). Za każdego
+innego gracza, który wprowadził kwarantannę wartość odejmowana od kości
+k10 zwiększa się o 1.
+
++--------+
+| Wojsko |
+| ====== |
++--------+
 
 1.  Armata niszczy bunkry (-4 do obrony bunkrów za każdą armatę w
     armii);
@@ -560,22 +654,24 @@ przesuwa zeton na karcie zarazy o jeden w prawo.
 9.  Jednorazowo można powołać tylu **[żołnierzy,]{.underline}** ile
     wynosi liczba posiadanych prowincji razy 2;
 
-  ----------- ------- ---------------------------- --------------
-  Nazwa       Koszt   Wartość bojowa (żołnierze)   Punkty ruchu
-  Piechota    2       1                            2
-  Kawaleria   6       3                            3
-  Artyleria   12      6                            1
-  Karawana    \-      6                            2
-  ----------- ------- ---------------------------- --------------
-
-+------------+
-| **Agenci** |
-| ========== |
-+------------+
++-----------+-------+----------------------------+--------------+
+| Nazwa     | Koszt | Wartość bojowa (żołnierze) | Punkty ruchu |
++-----------+-------+----------------------------+--------------+
+| Piechota  | 2     | 1                          | 2            |
++-----------+-------+----------------------------+--------------+
+| Kawaleria | 6     | 3                          | 3            |
++-----------+-------+----------------------------+--------------+
+| Artyleria | 12    | 6                          | 1            |
++-----------+-------+----------------------------+--------------+
+| Karawana  | \-    | 6                          | 2            |
++-----------+-------+----------------------------+--------------+
+| Agenci    |       |                            |              |
+| ======    |       |                            |              |
++-----------+-------+----------------------------+--------------+
 
 Gracze mają możliwość kupienia szpiega za 8 waluty, warunkiem
 umożliwiającym zakup i używanie agentów jest posiadanie stolicy na
-poziomie 1. Po zakupie szpiega gracz dostaje karty tajnych akcji. W
+poziomie 2. Po zakupie szpiega gracz dostaje karty tajnych akcji. W
 swojej kolejce gracz rozdziela zakryte karty wszystkim graczom, łącznie
 ze sobą. Po rozdaniu kart resztę należy odłożyć do pudełka. Na końcu
 każdej nowej tury karty tajnych akcji są odkrywane przez każdego gracza.
@@ -624,10 +720,10 @@ miał tylko po jednej karcie. Po odkryciu kart okazało się, że Bogdan
 dostał kartę sabotażu, więc teraz musi rzucić k100 by sprawdzić, czy
 akcja odniosła sukces.*
 
-+------------+
-| **Bunty**  |
-| ========== |
-+------------+
++-------+
+| Bunty |
+| ===== |
++-------+
 
 Jeśli gracz nie może wykarmić co najmniej 1 prowincji, to na końcu jego
 tury grozi mu bunt. Zagrożony gracz rzuca k100, wyniki poniżej 80
@@ -667,10 +763,10 @@ wybucha bunt (k6 żołnierzy). Jeśli połowa prowincji posiada czerwony
 żeton i dodatkowo któraś z nich ma znacznik z napisem \"R\" to bunt
 wybucha przy wyniku 1-70 (k10 żołnierzy).
 
-+---------------+
-|  **Stolica**  |
-| ============  |
-+---------------+
++---------+
+| Stolica |
+| ======= |
++---------+
 
 Gracz sam wybiera miejsce swojej stolicy na początku gry;
 
@@ -701,13 +797,14 @@ Każda stolica daje 2 jedzenia.
 
 Stolica ma 3 poziomy. Pierwszy poziom pozwala na kupowanie spichlerza
 oraz żołnierzy, drugi poziom pozwala na budowanie farmy, portów i
-kawalerii, a trzeci na budowanie fabryk i artylerii. 3 poziom stolicy
-dodatkowo zwiększa przychody o 1, czyli przychód ze stolicy wynosi {5}.
+kawalerii, a trzeci na budowanie fabryk, akademii taktycznej i
+artylerii. 3 poziom stolicy dodatkowo zwiększa przychody o 1, czyli
+przychód ze stolicy wynosi {5}.
 
-+-----------------+
-| **Zwycięstwo**  |
-| =============== |
-+-----------------+
++------------+
+| Zwycięstwo |
+| ========== |
++------------+
 
 Zwycięstwo odnosi gracz, który przejął wszystkie wrogie stolice. Jeżeli
 żaden gracz nie spełnia tego warunku, następuje podliczenie punktów.
@@ -717,10 +814,10 @@ Jeden punkt zdobywa się za każdą posiadaną prowincję, każda stolica daje
 6 punktów ponadto dodaje się tyle punktów, ile wyniósłby dochód w
 przyszłej rundzie.
 
-+--------------------------+
-| **Zasady dla 3 graczy**  |
-| ======================== |
-+--------------------------+
++---------------------+
+| Zasady dla 3 graczy |
+| =================== |
++---------------------+
 
 1.  Utrzymanie infrastruktury jest darmowe.
 
