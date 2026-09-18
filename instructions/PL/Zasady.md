@@ -18,7 +18,8 @@ Modyfikacja gry *Risk: Global Domination*
 - [Wielkie budowle](#wielkie-budowle)
 - [Ekipy budowlane](#ekipy-budowlane)
 - [Bitwy](#bitwy)
-- [Karty taktyk](#karty-taktyk)
+- [Rynek Sztabu — karty taktyk](#rynek-sztabu--karty-taktyk)
+- [Rynek Kancelarii — budynki i akcje](#rynek-kancelarii--budynki-i-akcje)
 - [Morze](#morze)
 - [Ekonomia](#ekonomia)
 - [Światowa zaraza](#światowa-zaraza)
@@ -63,13 +64,13 @@ Modyfikacja gry *Risk: Global Domination*
 
 1. Każdy gracz wybiera kolor swojej armii.
 
-2. Gra zaczyna się poprzez wybranie miejsca na stolicę i umieszczenie znacznika na wybranej prowincji; ponadto każdy gracz bierze 40 waluty. Stolice muszą się znajdować co najmniej 2 pola od siebie.
+2. **Rozłóż miejsca wielkich budowli.** Potasuj karty prowincji, dobierz cztery i połóż na wskazanych prowincjach odkryte żetony czterech wielkich budowli (patrz „Wielkie budowle"). Robi się to **przed** wyborem stolic.
 
-3. Każdy gracz stawia w swojej stolicy jedną **ekipę budowlaną**.
+3. Gra zaczyna się poprzez wybranie miejsca na stolicę i umieszczenie znacznika na wybranej prowincji; ponadto każdy gracz bierze 40 waluty. Stolice muszą się znajdować co najmniej 2 pola od siebie i nie mogą stać na prowincji z żetonem wielkiej budowli.
 
-4. Przygotuj **talię pogody** (patrz „Warunki pogodowe") i wyłóż **rynek taktyk** — 4 odkryte karty (patrz „Karty taktyk").
+4. Każdy gracz stawia w swojej stolicy jedną **ekipę budowlaną**.
 
-5. Wyłóż odkryte karty **wielkich budowli** obok planszy.
+5. Przygotuj **talię pogody**. Potasuj osobno **talię Sztabu** i **talię Kancelarii**, połóż je zakryte obok planszy i wyłóż z każdej **4 odkryte karty** — to są dwa rynki.
 
 6. Kolejność graczy w pierwszej i każdej następnej kolejce ustala licytacja inicjatywy. Rzut k100 służy wyłącznie do rozstrzygania remisów w pierwszej kolejce gry.
 
@@ -82,14 +83,14 @@ Na początku gry gracze posiadają tylko jedną prowincję ze stolicą. Aby zwi�
 **Na początku każdej kolejki, przed turą pierwszego gracza:**
 
 1. **Pogoda** — odrzuć kartę z pola POGODA, przesuń PROGNOZĘ na jej miejsce, dobierz nową kartę na PROGNOZĘ.
-2. **Rynek taktyk** — odrzuć kartę z pola 4, przesuń pozostałe w prawo, dołóż nową na pole 1.
+2. **Oba rynki** — na rynku Sztabu i na rynku Kancelarii odrzuć kartę z pola 4, przesuń pozostałe o jedno pole w prawo, dołóż nową kartę na pole 1. Obie talie przesuwa się zawsze, niezależnie od tego, czy ktoś z nich kupował.
 3. **Licytacja inicjatywy** — ustalenie kolejności tur w tej kolejce.
 
 **Tura gracza:**
 
 1. **Dojrzałe akcje i odbudowa** — zakończone budowy i ekspedycje, zwolnienie ekip, zdjęcie czerwonych żetonów.
 2. **Dochód** — stolica, prowincje, budynki, kutry, aktywne efekty.
-3. **Zakupy** — rekrutacja i wymiana batalionów w stolicy, ekipy, karty taktyk, rozpoczęcie budów i ekspedycji.
+3. **Zakupy** — rekrutacja i wymiana batalionów w stolicy, ekipy, karty z obu rynków, rozpoczęcie budów i ekspedycji.
 4. **Ruch i walki** — przemarsze, ataki, bitwy morskie, desanty, ostrzał brzegowy, blokady.
 5. **Koniec tury** — jedzenie, rzuty na bunty, sprawdzenie okrążenia stolicy.
 
@@ -97,7 +98,7 @@ Na początku gry gracze posiadają tylko jedną prowincję ze stolicą. Aby zwi�
 
 ## Licytacja inicjatywy
 
-Kolejność graczy nie jest stała — każdą kolejkę otwiera licytacja o pierwszeństwo. Licytacja odbywa się **po odkryciu nowej karty pogody i kart na rynkach**, a przed pierwszą turą w kolejce, więc gracze licytują, znając pogodę obowiązującą w tej kolejce oraz kartę leżącą na polu PROGNOZA.
+Kolejność graczy nie jest stała — każdą kolejkę otwiera licytacja o pierwszeństwo. Licytacja odbywa się **po odkryciu nowej karty pogody i kart na obu rynkach**, a przed pierwszą turą w kolejce, więc gracze licytują, znając pogodę obowiązującą w tej kolejce oraz kartę leżącą na polu PROGNOZA.
 
 1. Każdy gracz **potajemnie** odlicza dowolną liczbę monet ze swojego skarbca i trzyma je w zamkniętej dłoni. Stawka 0 jest dozwolona.
 2. Na sygnał wszyscy odsłaniają stawki **jednocześnie**.
@@ -108,14 +109,6 @@ Kolejność graczy nie jest stała — każdą kolejkę otwiera licytacja o pier
 **Remisy.** Przy równych stawkach wyżej wchodzi ten gracz, który w poprzedniej kolejce był później w kolejności. W pierwszej kolejce gry remis rozstrzyga rzut k100 — wyższy wynik wchodzi wyżej.
 
 Licytacji nie można pominąć ani wycofać stawki po odsłonięciu.
-
-## Podróże morskie
-
-Aby móc podróżować przez morze, należy posiadać port.
-
-Posiadając port, można zbudować okręty, np. transporter, który umożliwi desant na inną dowolną morską prowincję. Koszty przemarszu są standardowe, czyli płaci się podczas zejścia żołnierzy ze statku (można plądrować). Koszty ponosi się nawet w wypadku porażki. Desantujący się żołnierze mają modyfikator −12.
-
-Można kupić statek budowlany, który może zbudować na innej prowincji morskiej port. Posiadanie takiego statku należy zapisać na kartce; można go wysłać w dowolnym momencie gry.
 
 ---
 
@@ -184,7 +177,7 @@ Karta na polu POGODA obowiązuje wszystkich graczy przez całą kolejkę. Po trz
 
 ## Cennik
 
-**Wszystkie ceny w grze znajdują się wyłącznie w tej tabeli.** W pozostałych rozdziałach opisane są tylko efekty.
+**Wszystkie ceny w grze znajdują się wyłącznie w tej tabeli.** W pozostałych rozdziałach opisane są tylko efekty. Wyjątek: karty budynków z Kancelarii mają koszt budowy wypisany na samej karcie.
 
 | Pozycja | Koszt |
 |---|---|
@@ -194,7 +187,8 @@ Karta na polu POGODA obowiązuje wszystkich graczy przez całą kolejkę. Po trz
 | Transportowiec | 5 |
 | Statek budowlany | 7 |
 | Ekipa budowlana | 10 |
-| Karta taktyki (z rynku) | 5 |
+| Karta z rynku Sztabu | 5 |
+| Karta z rynku Kancelarii | 7 |
 | Farma | 11 |
 | Manufaktura | 20 |
 | Spichlerz | 12 |
@@ -255,7 +249,7 @@ Do budowy wymagana jest obecność **ekipy budowlanej**. Budynki można burzyć,
 : Daje przychód {2}.
 
 **Spichlerz**
-: Zapewnia 2 jedzenia niezależnie od pogody. Negatywne efekty pogodowe nie zmniejszają produkcji spichlerza; efekty dodatnie działają normalnie.
+: Zapewnia 2 jedzenia. Negatywne efekty pogodowe nie zmniejszają produkcji spichlerza; efekty dodatnie działają normalnie.
 
 **Droga** *(dodatkowa)*
 : Umożliwia przesyłanie żołnierzy między prowincjami z drogami bez ponoszenia kosztów przemarszu. Przy schodzeniu z pola z drogą na pole bez niej gracz nie ponosi kosztów przemarszu. Drogę można budować także na prowincji plądrowanej.
@@ -264,9 +258,20 @@ Do budowy wymagana jest obecność **ekipy budowlanej**. Budynki można burzyć,
 
 ## Wielkie budowle
 
-Cztery unikalne budowle. **Każda istnieje w partii tylko raz** — kto zbuduje pierwszy, blokuje ją dla wszystkich pozostałych do końca gry. Karty wielkich budowli leżą odkryte obok planszy; zbudowaną kartę bierze gracz, który ją postawił.
+Cztery unikalne budowle. **Każda istnieje w partii tylko raz**, a każda ma z góry wylosowane miejsce — powstanie wyłącznie na tej jednej prowincji, którą wskazano na początku gry. Kto ją kontroluje i zbuduje pierwszy, blokuje budowlę dla wszystkich pozostałych do końca gry.
+
+### Rozłożenie miejsc
+
+Przed wyborem stolic potasuj karty prowincji i dobierz **cztery**. Na każdej z wylosowanych prowincji połóż żeton jednej wielkiej budowli, odkryty — wszyscy widzą od pierwszej tury, gdzie co można postawić.
+
+- Jeśli dwie budowle wypadną na tym samym kontynencie, przerzuć drugą kartę.
+- **Na prowincji z żetonem budowli nie można postawić stolicy.**
+- Jeśli prowincja z żetonem należy do nikogo, żeton po prostu czeka — trzeba tam dojść.
+
+### Budowa
 
 - Budowa trwa **3 tury** i wymaga wolnej ekipy budowlanej oraz stolicy na 3 poziomie.
+- Prowincja musi być twoja, z połączeniem ze stolicą, i musi leżeć na niej żeton tej właśnie budowli.
 - Wielka budowla liczy się jako budynek główny.
 - **Nie można jej splądrować ani rozebrać.** Zdobycie prowincji oznacza przejęcie budowli razem z jej efektem.
 - Każda wielka budowla daje na koniec gry **5 punktów** właścicielowi prowincji.
@@ -308,13 +313,6 @@ Rozbiórka nie wymaga ekipy. Zwraca połowę kosztu nominalnego.
 
 Budować można tylko na prowincjach posiadanych (nie okupowanych), z połączeniem ze stolicą, na których nie stoi już inny budynek główny. Na prowincji okupowanej i plądrowanej ekipa może wybudować wyłącznie drogę.
 
-### Ekspedycje
-
-> *Na wynik ekspedycji rzuca się na początku swojej tury.*
-
-#### Ekspedycje wewnętrzne
-
-Ekspedycję wewnętrzną prowadzi ekipa budowlana — to ona kopie.
 
 ---
 
@@ -324,7 +322,7 @@ Ekspedycję wewnętrzną prowadzi ekipa budowlana — to ona kopie.
 
 Bitwa toczy się w rundach. W każdej rundzie:
 
-1. Obie strony mogą zagrać po jednej **karcie taktyki** (patrz „Karty taktyk").
+1. Obie strony mogą zagrać po jednej **karcie taktyki**.
 2. Obaj gracze rzucają **k100** i modyfikują swój wynik.
 3. Każdy sprawdza swój wynik w tabeli i **zabija tylu żołnierzy przeciwnika**, ile wskazuje tabela. Obie strony ponoszą straty jednocześnie — wynik przeciwnika nie ma wpływu na twój.
 4. Po rozpatrzeniu strat **atakujący decyduje**, czy prowadzi kolejną rundę, czy wycofuje wojska.
@@ -379,6 +377,7 @@ Pozostałe:
 
 - atak z więcej niż jednej prowincji: +1 za każdą przylegającą prowincję, z której atakujesz;
 - przyjacielska bateria nadbrzeżna przy bitwie morskiej: +6.
+
 **Odejmowane od rzutu przeciwnika**
 
 - bunkier obrońcy: −10 (1 poziom), −20 (2 poziom);
@@ -403,7 +402,7 @@ Transportowiec nie bierze udziału w walce i nie liczy się do stosunku sił. Je
 
 ---
 
-## Karty taktyk
+## Rynek Sztabu — karty taktyk
 
 ### Rynek
 
@@ -459,6 +458,61 @@ Transportowiec nie bierze udziału w walce i nie liczy się do stosunku sił. Je
 
 ---
 
+## Rynek Kancelarii — budynki i akcje
+
+Druga talia, z której kupuje się prawa do unikalnych budynków oraz jednorazowe akcje.
+
+### Rynek
+
+- Obok planszy leżą **4 odkryte karty** w rzędzie, tak samo jak przy Sztabie.
+- Rynek Kancelarii przesuwa się **co kolejkę razem ze Sztabem**: odrzuć kartę z pola 4, przesuń pozostałe w prawo, dołóż nową na pole 1.
+- W swojej turze kupujesz dowolną liczbę kart. Luki uzupełnia się od razu, dosuwając karty od lewej.
+- Zużyte i odrzucone karty trafiają na stos odrzuconych tej talii. Gdy talia się skończy, potasuj stos i utwórz nową.
+
+### Ręka
+
+- Limit ręki: **3 karty Kancelarii**, liczone osobno od kart Sztabu.
+- Karty trzyma się w tajemnicy.
+
+### Budynki
+
+- Karta zużywa się w chwili **rozpoczęcia budowy**.
+- Budowę prowadzi ekipa budowlana na normalnych zasadach; koszt, czas budowy, wymagany poziom stolicy i typ budynku są wypisane **na karcie**.
+- Zdobywca prowincji przejmuje budynek razem z terenem.
+- Splądrowanie niszczy budynek, a karta wraca **na spód talii Kancelarii**.
+
+| Budynek | Koszt | Czas | Stolica | Typ | Efekt | Kopie |
+|---|---|---|---|---|---|---|
+| Karczma przydrożna | 12 | 1 tura | 1 | dodatkowy | {1} za każdą twoją prowincję z drogą przylegającą do tej. | 2 |
+| Traktownia | 18 | 2 tury | 2 | główny | Ta prowincja daje {1}. Wszystkie twoje karczmy liczą także prowincje oddalone o 2 pola. | 2 |
+| Skład zbożowy | 16 | 2 tury | 1 | główny | Raz na turę możesz zamienić 2 nadwyżkowe jedzenia na 3 waluty. | 2 |
+| Browar | 18 | 2 tury | 2 | główny | +1 waluty za każde jedzenie zamienione w tej turze na walutę. | 2 |
+| Młyn rzeczny | 20 | 2 tury | 2 | główny | Daje 2 jedzenia. Twoje farmy na przylegających prowincjach dają +1 jedzenia każda. | 2 |
+| Ratusz | 22 | 2 tury | 2 | główny | +1 waluty za każdy **typ budynku głównego**, który posiadasz na mapie. Liczysz typy, nie sztuki. | 2 |
+| Magazyn polowy | 14 | 1 tura | 1 | dodatkowy | Limit jednostek w tej prowincji rośnie o 6. Czerwone żetony nie zmniejszają tu limitu. | 2 |
+| Wieża strażnicza | 12 | 1 tura | 1 | dodatkowy | W bitwach tutaj i na prowincjach przylegających widzisz kartę taktyki przeciwnika, zanim zagrasz swoją. | 2 |
+| Koszary graniczne | 22 | 2 tury | 2 | główny | Możesz rekrutować tutaj jak w stolicy, ale każda jednostka kosztuje o 1 więcej. | 2 |
+| Arsenał | 20 | 2 tury | 3 | główny | Armaty rekrutowane lub stacjonujące w tej prowincji mają 2 punkty ruchu. | 2 |
+| Dom gubernatora | 18 | 2 tury | 2 | główny | Ta prowincja nie może się zbuntować. Przy rzucie na bunt z braku jedzenia masz +20 do wyniku. | 2 |
+| Warsztat inżynierów | 20 | 2 tury | 2 | główny | Twoje ekipy budują o turę krócej (minimum 1 tura) i mają +1 punkt ruchu. | 2 |
+
+### Akcje
+
+Karta jednorazowa, zagrywana **w swojej turze**, zużywana po użyciu. Nie wymaga ekipy ani budowy.
+
+| Akcja | Efekt | Kopie |
+|---|---|---|
+| Wyprawa zwiadowcza | Wyślij ekspedycję wewnętrzną na swoją prowincję bez ekipy i bez czekania: zapłać koszt ekspedycji i rzuć od razu. | 2 |
+| Forsowny werbunek | W tej turze rekrutujesz bez limitu prowincji × 2. | 2 |
+| Przekop | Zbuduj drogę na dowolnej swojej prowincji za darmo i bez ekipy. | 2 |
+| Przymusowy zaciąg | Zamień 4 nadwyżkowe jedzenia na 4 piechurów w stolicy. | 2 |
+| Rekwizycja | Weź 1 walutę za każdą swoją prowincję z czerwonym żetonem. | 1 |
+| Amnestia | Usuń wszystkich rebeliantów z jednej swojej prowincji, płacąc połowę zwykłej stawki za żołnierza. | 1 |
+| Karawana zaopatrzeniowa | Jedna twoja armia porusza się w tej turze, ignorując koszty przemarszu i limity jednostek na prowincjach docelowych. | 1 |
+| Podwójna wyprawa | **Zatrzymujesz tę kartę do końca gry.** Możesz mieć 2 aktywne ekspedycje zamorskie jednocześnie. | 1 |
+
+---
+
 ## Morze
 
 ### Podróże morskie i desant
@@ -510,10 +564,10 @@ Gracz może wybrać jedną ze swoich prowincji bez budynku głównego i wysłać
 | 4–29 | Znalazłeś pospolity minerał. Kup bonus, by zyskać {3} na turę. *(połóż kartkę „K")* |
 | 30–70 | Ekspedycja zakończyła się niepowodzeniem, nic nie znalazłeś. |
 | 71–88 | Znalazłeś artefakt, dzięki czemu zyskujesz jednorazowo 16 waluty. |
-| 89–97 | Znalazłeś dziwną zatrutą wodę. Twoje działania spowodowały, że cała prowincja nie nadaje się na budowę farmy ani spichlerza. *(połóż czarną kartkę na prowincję)* |
-| 98–100 | Znalazłeś plemię dzikusów, którzy przejmują teren. Na prowincji pojawia się k10 żołnierzy piechoty, która jest neutralna. Wszyscy żołnierze właściciela znajdującego się na tym terenie mogą zaatakować lub wycofać się bez strat. *(za dzikusów rzuca gracz po prawej; nie mogą oni się przemieszczać ani rozmawiać z graczami)* Prowincja przejęta przez dzikich ludzi nie jest traktowana jako zbuntowana; dzikusów nie można również przekupić. |
+| 89–97 | Znalazłeś dziwną zatrutą wodę. Cała prowincja nie nadaje się na budowę farmy ani spichlerza. *(połóż czarną kartkę)* |
+| 98–100 | Znalazłeś plemię dzikusów, którzy przejmują teren. Na prowincji pojawia się k10 neutralnych piechurów. Żołnierze właściciela mogą zaatakować lub wycofać się bez strat. *(za dzikusów rzuca gracz po prawej; nie mogą się przemieszczać ani rozmawiać z graczami)* Prowincja przejęta przez dzikusów nie jest traktowana jako zbuntowana; dzikusów nie można przekupić. |
 
-#### Ekspedycje zamorskie
+### Ekspedycje zamorskie
 
 Jeśli gracz posiada port, może wysłać ekspedycję zamorską. Gracz może mieć maksymalnie 1 aktywną taką ekspedycję. Akcja trwa 4 tury, po których gracz rzuca k100.
 
@@ -527,7 +581,7 @@ Jeśli gracz posiada port, może wysłać ekspedycję zamorską. Gracz może mie
 | 19–20 | Ekspedycja znalazła nowy materiał, który idealnie nadaje się do kul armatnich. Siła niszcząca obronę bunkrów wzrasta na stałe o 2. |
 | 21–25 | Twoja ekspedycja odkryła statek widmo, który przejęli, i teraz możesz go wykorzystać do następnej wyprawy. Koszt następnej ekspedycji zmniejsza się o 10. |
 | 26–29 | Ekspedycja wróciła z pustymi rękami, ale bez strat. |
-| 30–35 | Ekspedycja odkryła nowatorską technologię. Gracz może za darmo zbudować cztery drogi albo, jeśli nie chce, może sprzedać ich część innemu graczowi lub nie używać wcale. |
+| 30–34 | Ekspedycja odkryła nowatorską technologię. Gracz może za darmo zbudować cztery drogi albo, jeśli nie chce, może sprzedać ich część innemu graczowi lub nie używać wcale. |
 | 35–40 | Ekspedycja wróciła do domu z niczym. Niestety złapali chorobę tropikalną i zginęła część twoich ludzi, zanim opanowałeś zarazę. Gracz traci 4 żołnierzy, sam wybiera których. |
 | 41–45 | Trafiasz na bogate plemię, które twoi ludzie obrabowali. Zyskujesz przychód {5} przez 5 tur. |
 | 46–50 | Czas ekspedycji z powodu niekorzystnych wiatrów wydłuża się o 1 turę, a koszt rośnie o 5. W przypadku niezapłacenia ekspedycja wraca z niczym. |
@@ -537,9 +591,9 @@ Jeśli gracz posiada port, może wysłać ekspedycję zamorską. Gracz może mie
 | 71–75 | Odkryta wysepka z zapasami. Gracz dostaje jednorazowo 12 waluty |
 | 76–80 | Ekspedycja wpadła w ręce plemienia kanibali. Na szczęście większości jej uczestników udało się uciec i wrócić do domu, jednak ich straszne opowieści odstraszają jakichkolwiek śmiałków od udziału w podobnym przedsięwzięciu. Koszt następnej ekspedycji wzrasta o 5. |
 | 81–85 | Ekspedycja znalazła nową broń. Gracz otrzymuje stały modyfikator +3 do każdej bitwy. |
-| 86–90 | Kapitan postanowił zmienić barwy dla tego, kto da więcej. Gracze licytują się między sobą (pierwotny właściciel też może) i ten, kto da najwięcej, rzuca kością na wynik ekspedycji zamorskiej. Jeśli nikt nie zapłaci, kapitan wróci do pierwotnego właściciela i on wykonuje rzut na wynik ekspedycji. |
-| 91–98 | Trafiasz na wspaniałą rzecz, którą odkrywcy przywieźli do twojego państwa. Niestety okazała się trująca. Połóż czarny znacznik na 2 polach bez budynków. Jeśli znacznik musi zostać położony na prowincji z budynkiem, to ulega on zniszczeniu lub płaci się (10) za każdy nie położony znacznik. Znaczenie znacznika znajduje się w ekspedycjach wewnętrznych (90–98). |
-| 99–100 | Ekspedycja wróciła z niczym. Kilka dni po tym, jak wrócili, wszyscy marynarze umarli na tajemniczą chorobę, która zaczęła rozprzestrzeniać się na rodziny i całe miasto. Rozpoczęto światową zarazę. Połóż kartę zarazy obok planszy i sprawdź stronę nr (placeholder). |
+| 86–90 | Kapitan sprzedaje się temu, kto da więcej. Gracze licytują się między sobą (pierwotny właściciel też może) i zwycięzca rzuca na wynik ekspedycji. Jeśli nikt nie zapłaci, rzuca pierwotny właściciel. |
+| 91–98 | Przywieziona rzecz okazała się trująca. Połóż czarny znacznik na 2 polach bez budynków. Jeśli znacznik musi trafić na prowincję z budynkiem, budynek ulega zniszczeniu albo płacisz 10 za każdy nie położony znacznik. Znaczenie znacznika: patrz ekspedycje wewnętrzne, wynik 89–97. |
+| 99–100 | Wszyscy marynarze umarli na tajemniczą chorobę, która rozprzestrzenia się dalej. Rozpoczyna się światowa zaraza — patrz rozdział „Światowa zaraza". |
 
 ### Infrastruktura i gospodarka rabunkowa
 
@@ -552,7 +606,6 @@ Jeśli gracz posiada port, może wysłać ekspedycję zamorską. Gracz może mie
 ### Kutry rybackie
 
 Gracz posiadający port może zbudować kuter rybacki. Kuter ma 2 punkty ruchu i umieszczony na prowincji morskiej zapewnia 1 jedzenia i 1 waluty. Na jednej morskiej prowincji może stać maksymalnie 1 kuter. W przypadku blokady wszystkich portów gracza kutry nie przynoszą ani waluty, ani jedzenia.
-
 
 ### Waluta
 
@@ -611,13 +664,15 @@ Zaraza trwa 3 tury. Gracz, od którego się zaczęła, na początku każdej swoj
 
 ## Bunty
 
-Jeśli gracz nie może wykarmić co najmniej 1 prowincji, to na końcu jego tury grozi mu bunt. Zagrożony gracz rzuca k100; wyniki poniżej 80 oznaczają pojawienie się buntowników. Gracz sam określa, w której prowincji wybucha bunt — musi to być teren bez żadnego budynku (poza budynkami dodatkowymi, które nie ulegają zniszczeniu). Buntuje się k10 żołnierzy gracza, których należy zamienić na inny kolor. Na wybranej prowincji buntuje się zawsze maksimum możliwych żołnierzy; jeśli po zbuntowaniu jakiejś prowincji liczba rebeliantów nadal jest mniejsza od rzutu k10, to gracz wybiera następną prowincję i dzieje się tak do czasu, aż zbuntuje się tylu żołnierzy, ile wyrzucono na kostce. Rebelianci nie mogą się poruszać ani pertraktować. Jeśli na prowincji zbuntuje się część żołnierzy, dochodzi do natychmiastowej walki między buntownikami a pozostałymi żołnierzami na prowincji, bez możliwości wysyłania posiłków.
+Jeśli gracz nie może wykarmić co najmniej 1 prowincji, to na końcu jego tury grozi mu bunt. Zagrożony gracz rzuca k100; wyniki poniżej 80 oznaczają pojawienie się buntowników. Gracz sam określa, w której prowincji wybucha bunt — musi to być teren bez żadnego budynku (poza budynkami dodatkowymi, które nie ulegają zniszczeniu). Buntuje się k10 żołnierzy gracza, których należy zamienić na inny kolor.
 
-Bunt można spacyfikować również poprzez przekupienie buntowników pieniędzmi. Aby to zrobić, należy zapłacić 3 waluty za każdego zbuntowanego żołnierza (może to zrobić każdy gracz w swojej turze; jeśli więcej niż jeden gracz chcą tego dokonać, następuje licytacja — gracz, który wygra, dostaje prowincję wraz z żołnierzami). Za zbuntowanych żołnierzy rzuca gracz po lewej stronie ofiary. Bunty mogą wybuchnąć tylko pod koniec tury gracza nimi zagrożonego. Jeśli bunt wybuchł na prowincji z jakimkolwiek budynkiem, który nie jest dodatkowy, to ulega ona zniszczeniu.
+Na wybranej prowincji buntuje się zawsze maksimum możliwych żołnierzy; jeśli rebeliantów jest nadal mniej niż wynik k10, gracz wybiera następną prowincję, i tak do wyczerpania wyniku. Rebelianci nie mogą się poruszać ani pertraktować. Jeśli na prowincji zbuntuje się część żołnierzy, dochodzi do natychmiastowej walki między buntownikami a pozostałymi żołnierzami, bez możliwości wysyłania posiłków.
 
-> *Przykład.* Kacper nie może wykarmić 1 prowincji, więc na zakończenie swojej tury rzuca k100. Wypadło 60, czyli teraz należy rzucić k10, by zobaczyć, ilu rebeliantów się pojawia. Gracz wyrzucił 6. Teraz musi wybrać prowincję, na której dochodzi do buntu. Kacper wybrał teren, na którym znajduje się 4 żołnierzy, bo po zbuntowaniu się zostaje mu nadal 2 żołnierzy, którzy jeszcze muszą się zbuntować, więc Kacper wybrał kolejną prowincję, na której znajduje się 3 ludzi, więc buntuje mu się 2 (4 + 2 = 6) i wynika natychmiastowa walka między dwoma rebeliantami i 1 prawym żołnierzem.
+Bunt można spacyfikować przekupieniem buntowników — płacąc za każdego zbuntowanego żołnierza. Może to zrobić każdy gracz w swojej turze; jeśli chce tego więcej niż jeden, następuje licytacja, a zwycięzca dostaje prowincję wraz z żołnierzami. Za zbuntowanych żołnierzy rzuca gracz po lewej stronie ofiary. Bunty mogą wybuchnąć tylko pod koniec tury gracza nimi zagrożonego. Jeśli bunt wybuchł na prowincji z budynkiem, który nie jest dodatkowy, budynek ulega zniszczeniu.
 
-Bunt może wybuchnąć również, jeśli co najmniej połowa prowincji gracza posiada czerwone żetony. W takim wypadku należy rzucić k100 — wynik 1–60: wybucha bunt (k6 żołnierzy). Jeśli połowa prowincji posiada czerwony żeton i dodatkowo któraś z nich ma znacznik z napisem „R", to bunt wybucha przy wyniku 1–70 (k10 żołnierzy).
+> *Przykład.* Kacper nie może wykarmić 1 prowincji, więc na zakończenie tury rzuca k100. Wypadło 60, czyli wybucha bunt; rzuca k10 i wypada 6. Wybiera prowincję z 4 żołnierzami — buntują się wszyscy czterej. Brakuje jeszcze dwóch, więc wybiera kolejną prowincję, na której stoi 3 ludzi: buntuje się 2 (4 + 2 = 6) i dochodzi do natychmiastowej walki między dwoma rebeliantami a jednym lojalnym żołnierzem.
+
+Bunt może wybuchnąć również, jeśli co najmniej połowa prowincji gracza posiada czerwone żetony: rzut k100, wynik 1–60 oznacza bunt (k6 żołnierzy). Jeśli dodatkowo któraś z tych prowincji ma znacznik „R", bunt wybucha przy wyniku 1–70 (k10 żołnierzy).
 
 ---
 
@@ -659,11 +714,8 @@ Stolica ma 3 poziomy. Pierwszy pozwala kupować spichlerze i piechotę, drugi fa
 1. Utrzymanie dróg jest darmowe.
 2. Każdy gracz na początku tury dostaje 5 waluty ze stolicy.
 3. Zdobycie wrogiej stolicy daje dodatkowe 4 waluty na turę.
-
 4. Karawana posiada 3 punkty ruchu.
-
 5. Przy podliczaniu punktów stolica daje 10 punktów.
-
 6. Stolica daje dodatkowe 1 jedzenia.
 
 ---
